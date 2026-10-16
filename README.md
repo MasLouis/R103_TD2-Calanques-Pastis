@@ -1,7 +1,9 @@
 ![](imagepastis.png "")
 # Le pastis
 
-*Une découverte en MarkDown d’une boisson anisée provençale.*
+*Bienvunue, vous voilà face à une présentation en MarkDown d’une boisson anisée provençale.*  
+
+*Lisez avec modération*
 
 ## Sommaire
 
