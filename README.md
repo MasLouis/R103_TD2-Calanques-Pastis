@@ -134,4 +134,7 @@ La section santé reprend les repères de réduction des risques indiqués par S
 
 ## Sources
 
-- [Titre de la source](https://exemple.fr)
+- [Règlement (UE) 2019/787 — EUR-Lex](https://eur-lex.europa.eu/eli/reg/2019/787/oj?locale=fr) — définition réglementaire du pastis et des boissons spiritueuses anisées.
+- [Comment réduire les risques de la consommation d’alcool — Santé publique France](https://www.santepubliquefrance.fr/alcool/comment-reduire-les-risques-de-la-consommation-dalcool) — risques liés à l’alcool et repères de consommation à moindre risque.
+- [Les anisés et l’absinthe — Fédération Française des Spiritueux](https://www.spiritueux.fr/spiritueux/les-anises-et-labsinthes/) — informations sur les boissons anisées, leur élaboration et le pastis.
+- [Everything You Need to Know About Pastis — Taste France Magazine](https://www.tastefrance.com/magazine/french-pantry/everything-you-need-know-about-pastis) — aperçu de l’histoire, des usages et de la place du pastis dans la culture française.
