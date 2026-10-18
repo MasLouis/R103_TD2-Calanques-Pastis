@@ -18,9 +18,6 @@
 - [! TECHNIQUE SECRETE!](#technique-secrète)
 - [Sources](#sources)
 
-"""A intégrer: Titre, sous titre, tableaux, Puces, images, Liens Internes/externes, text barré Couleur, souligné"""
-
-Voici une proposition pour ces trois parties, prête à intégrer dans ton `README.md` :
 
 
 ## Qu’est-ce que le pastis ?
