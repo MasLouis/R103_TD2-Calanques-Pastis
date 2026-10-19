@@ -1,7 +1,7 @@
 ![](imagepastis.png "")
 # Le pastis
 
-*Bienvunue, vous voilà face à une présentation en MarkDown d’une boisson anisée provençale.*  
+*Bienvenue, vous voilà face à une présentation en MarkDown d’une boisson anisée provençale.*  
 
 *Lisez avec modération*
 
@@ -13,7 +13,6 @@
 - [Les meilleurs combo !](#les-meilleurs-combo-)
 - [Les risques liés à l’alcool](#les-risques-lies-a-l-alcool)
 - [Le pastis et la Provence](#le-pastis-et-la-provence)
-- [Classement des meilleurs Pastis](#classement-des-meilleurs-pastis)
 - [Idées reçues](#idees-recues)
 - [! TECHNIQUE SECRETE!](#technique-secrète)
 - [Sources](#sources)
@@ -83,9 +82,6 @@ Le pastis est fortement associé à la Provence et, en particulier, à l’imagi
 Mais la Provence ne se résume pas à un verre anisé. Le pastis fait partie d’une culture de l’apéritif et d’un art de prendre son temps. On le retrouve souvent dans les souvenirs de vacances, les parties de pétanque et les longues discussions où personne ne sait vraiment qui a gagné.
 
 Bref, le pastis évoque la Provence ; il ne remplace ni la visite de la région, ni une bonne bouteille d’eau.
-
-## Classement des meilleurs pastis
-
 
 
 ## Idées reçues
